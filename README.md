@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2> Hey there! I'm Anxuan Han.</h2>
 
-<!--
-**anxuanhan/anxuanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓 About me: I'm a PhD student at the University of Adelaide (Australia).
+- ✍️ Reasearch Interest: Bioinformatics and Computational Biology.
+- 📫 Email: hax3417@163.com
+- 🌐 Personal website: https://ananananxuan.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anxuanhan&theme=buefy&show_icons=true"  alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxuanhan&theme=buefy&layout=compact"  alt=""/>
+</a>
+
+<br/>
+
